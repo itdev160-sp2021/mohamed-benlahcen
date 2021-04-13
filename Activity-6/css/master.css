@@ -1,0 +1,20 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.messages {
+  margin-bottom: 20px;
+
+}
+
+.out-messages {
+  padding: 5px;
+  background-color: darkcyan;
+}
+
+.in-messages {
+  padding: 5px;
+  background-color: aquamarine;
+}
